@@ -1,0 +1,75 @@
+body {
+  background-image: url("neonsign4\ -\ Copy.jpg");background-size: 128px;
+}
+
+p.outset {border-style: inset;}
+p{
+border-style: inset;
+border-color:powderblue;
+}
+h2{
+color: azure;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color: darkturquoise;
+}
+
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+h1 
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li {
+    word-wrap: break-word;
+}
+p{
+color: lightpink;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+body { margin:10px auto; text-align:center; }
+.content { max-width:800px;text-align:left; margin:auto; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
